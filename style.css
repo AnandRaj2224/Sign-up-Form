@@ -10,15 +10,39 @@ body{
   margin-right: 250px;
 
 }
-.img{
+#img1{
+  display: block;
   padding: 0px;
-  margin: 0px;
-}
-img{
   margin: 0px;
   padding: 0px;
   height: 100%;
   width: 340px;
+  position: relative;
+}
+#img2{
+  position: absolute;
+  top: 150px;
+  left: 330px;
+  padding: 0px;
+  margin: 0px;
+  width: 160px;
+  height: auto;
+}
+#photographer{
+  color: white;
+  position: absolute;
+  z-index: 99;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  left: 320px;
+  bottom: 80px;
+}
+a:link{
+  color: white;
+}
+a:visited{
+  color: white;
 }
 .TheForm{
   display: flex;
