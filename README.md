@@ -1,7 +1,9 @@
 Odin Project Signup Form
+<br>
 Project Overview
-The Odin Project Signup Form is a basic HTML form designed for user registration. It includes essential fields such as first name, last name, email, phone number, password, and password confirmation. The form utilizes modern web standards for accessibility and user experience.
-File Structure
+<Br>
+The Odin Project Signup Form is a basic HTML form designed for user registration. It includes essential fields such as first name, last name, email, phone number, password, and password confirmation. The form utilizes modern web standards for accessibility and user experience.<br>
+File Structure<BR>
 index.html: Main HTML file containing the signup form.
 style.css: CSS file for custom styling of form elements.
 images/: Directory for storing project images.
